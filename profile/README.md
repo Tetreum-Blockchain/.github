@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=900&lines=Fast.+Scalable.+Developer-first.;Built+for+the+next+generation+of+onchain+applications.;Tetreum+is+designed+for+global-scale+Web3." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=900&lines=Fast.+Scalable.+Developer-first.;Built+for+the+next+generation+of+onchain+applications.;Tetreum+is+designed+for+global-scale+Web3." alt="Typing SVG" />
 
 </div>
 
