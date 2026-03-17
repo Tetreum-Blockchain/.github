@@ -1,7 +1,5 @@
 <div align="center">
 
-# Tetreum
-
 ### Next-generation blockchain infrastructure for scalable, secure, and global onchain applications.
 
 <p align="center">
