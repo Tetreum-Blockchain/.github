@@ -131,18 +131,6 @@ It is a project centered around performance, usability, and the belief that bloc
 
 ---
 
-## Connect
-
-<p align="left">
-  🌐 <strong>Website:</strong> <a href="https://tetreum.com">tetreum.com</a><br/>
-  📘 <strong>Docs:</strong> <a href="https://docs.tetreum.com">docs.tetreum.com</a><br/>
-  🐦 <strong>X / Twitter:</strong> <a href="https://x.com/tetreum">@tetreum</a><br/>
-  💬 <strong>Telegram:</strong> <a href="https://t.me/tetreum">t.me/tetreum</a><br/>
-  💻 <strong>GitHub:</strong> <a href="https://github.com/tetreumdev">github.com/tetreumdev</a>
-</p>
-
----
-
 <div align="center">
 
 ## Build the future with Tetreum.
