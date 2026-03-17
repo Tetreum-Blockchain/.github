@@ -11,9 +11,6 @@
   <a href="https://docs.tetreum.com">
     <img src="https://img.shields.io/badge/Docs-Read%20More-00D2D3?style=for-the-badge" alt="Docs" />
   </a>
-  <a href="https://github.com/tetreumdev">
-    <img src="https://img.shields.io/badge/GitHub-Tetreumdev-111111?style=for-the-badge" alt="GitHub" />
-  </a>
   <a href="https://x.com/tetreum">
     <img src="https://img.shields.io/badge/X-Follow-1DA1F2?style=for-the-badge" alt="X" />
   </a>
