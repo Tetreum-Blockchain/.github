@@ -14,8 +14,11 @@
   <a href="https://x.com/tetreum">
     <img src="https://img.shields.io/badge/X-Follow-1DA1F2?style=for-the-badge" alt="X" />
   </a>
+  <a href="https://testnet.tetscan.com">
+    <img src="https://img.shields.io/badge/Testnet-View%20Network-4C6EF5?style=for-the-badge" alt="Testnet" />
+  </a>
   <a href="https://faucet.tetreum.com">
-    <img src="https://img.shields.io/badge/Testnet%20Faucet-Claim%20TET-8E44AD?style=for-the-badge" alt="Testnet Faucet" />
+    <img src="https://img.shields.io/badge/Faucet-Claim%20TET-8E44AD?style=for-the-badge" alt="Faucet" />
   </a>
 </p>
 
